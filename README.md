@@ -1,4 +1,4 @@
 codeeval
 ========
 
-codeeval.com solutions
+https://www.codeeval.com/ solutions
